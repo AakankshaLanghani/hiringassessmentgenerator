@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # ICS AI Hiring Assessment Generator — Frontend
 
 A production-ready SaaS frontend for generating AI-powered MCQ hiring assessments from job descriptions.
