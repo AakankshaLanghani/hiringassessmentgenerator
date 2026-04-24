@@ -118,7 +118,7 @@ export async function exportToDOCX(data: GenerateResponse) {
     await import("docx");
   const { saveAs } = await import("file-saver");
 
-  const children: Paragraph[] = [];
+  const children: any[] = [];
 
   // Title
   children.push(
