@@ -1,4 +1,4 @@
-# ICS AI Hiring Assessment Generator
+# AI Hiring Assessment Generator
 
 A production-ready SaaS frontend for generating AI-powered MCQ hiring assessments from job descriptions.
 
@@ -16,7 +16,7 @@ A production-ready SaaS frontend for generating AI-powered MCQ hiring assessment
 ## Project Structure
 
 ```
-ics-assessment/
+abc-assessment/
 ├── app/
 │   ├── layout.tsx          # Root layout with Navbar
 │   ├── page.tsx            # Landing page (/)
@@ -59,7 +59,7 @@ ics-assessment/
 ### 2. Install dependencies
 
 ```bash
-cd ics-assessment
+cd abc-assessment
 npm install
 ```
 
